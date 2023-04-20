@@ -1,0 +1,12 @@
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.deps.json
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.dll
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\bin\Debug\net6.0\CinemaApp.Core.pdb
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.dll
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\refint\CinemaApp.Core.dll
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\CinemaApp.Core.pdb
+C:\Users\Ahad\Desktop\CinemaApp.App\CinemaApp.Core\obj\Debug\net6.0\ref\CinemaApp.Core.dll

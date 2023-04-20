@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CinemaApp.Data/1.0.0": {
+        "dependencies": {
+          "CinemaApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "CinemaApp.Data.dll": {}
+        }
+      },
+      "CinemaApp.Core/1.0.0": {
+        "runtime": {
+          "CinemaApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CinemaApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CinemaApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
